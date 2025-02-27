@@ -1,0 +1,13 @@
+# Application
+Application/build
+node_modules
+dist
+out
+.DS_Store
+*.log*
+.vscode
+.editorconfig
+
+# Core
+Core/Core.xcodeproj
+Core/Dependencies
